@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lukcoderc
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning C.
-- ⚡ Fun fact: Plane enthusiast✈️
+
 
 <!---
 Lukcoderc/Lukcoderc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

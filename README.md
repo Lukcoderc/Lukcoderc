@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lukcoderc
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning C++.
 
 
 <!---

@@ -12,7 +12,6 @@
 
 HTL Braunau
 
-🌱 &nbsp;I'm currently learning **C++**
 
 ### 🛠️ Tech Stack
 

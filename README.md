@@ -1,14 +1,3 @@
-<p align="center">
-  <a href="https://github.com/Lukcoderc">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5080c3&fontSize=54&height=90&width=698&text=Hallo%20ich%20bin%20Lukas" alt="Hallo ich bin Lukas" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=360&height=44&lines=HTL%20%20Braunau" alt="Typing headlines" />
-</p>
-
-### 🚀 About Me
 
 HTL Braunau
 

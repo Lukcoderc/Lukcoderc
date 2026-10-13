@@ -16,6 +16,7 @@ HTL Braunau
 ### 📖 Languages
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?
+username=Lukcoderc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 📈 Contribution Graph
 

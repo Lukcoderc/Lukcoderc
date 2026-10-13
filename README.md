@@ -9,6 +9,14 @@ HTL Braunau
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Lukcoderc&layout=compact&theme=tokyonight&title_color=5080c3&icon_color=5080c3&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
+### 🔥 Streak
+
+![](https://streak-stats.demolab.com/?user=Lukcoderc&theme=dark&hide_border=false)<br/>
+
+### 📖 Languages
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?
+
 ### 📈 Contribution Graph
 
 <p align="center">
